@@ -29,6 +29,6 @@ Go to http://localhost:3000 in your browser to play the game.
 
 Play Online :
 
-You can play the game online at:
+You can play the game online at: https://nitish-k00.github.io/TIC-TAC-TOE-REACT/
 
 
