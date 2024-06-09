@@ -15,16 +15,18 @@ Features :
 Getting Started :
 
 step 1 : Clone the repository:
-git clone <your-git-repository-url>
-cd tic-tac-toe
+git clone https://github.com/nitish-k00/TIC-TAC-TOE-REACT.git
 
-step 2 : Install dependencies:
+step 2 : Navigate to the project directory:
+cd TIC-TAC-TOE-REACT
+
+step 3 : Install dependencies:
 npm install (or) yarn install
 
-step 3 : Start the development server:
+step 4 : Start the development server:
 npm start (or) yarn start
 
-step 4 : Open the game:
+step 5 : Open the game:
 Go to http://localhost:3000 in your browser to play the game.
 
 Play Online :
