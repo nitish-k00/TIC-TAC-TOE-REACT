@@ -100,3 +100,10 @@ button:hover {
   position: absolute;
   overflow: hidden;
 }
+
+@media screen and (min-width: 528px) {
+  .win {
+    display: flex;
+    justify-content: space-between;
+  }
+}
